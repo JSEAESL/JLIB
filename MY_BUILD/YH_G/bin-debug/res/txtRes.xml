@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<root hasRes="1" xmlName="nodeInfo">
+	<nodeInfo hasRes="1" xmlName="info">
+		<info xmlName="txtNode"/>
+	</nodeInfo>
+	<txtNode hasRes="1" xmlName="Node">
+		<Node id="0" isRes="1" type="MP3_TYPE" url="res/Between The Bars.mp3"/>
+		<Node id="1" isRes="1" type="MP3_TYPE" url="res/Keep on keeping on.mp3"/>
+	</txtNode>
+</root>

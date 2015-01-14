@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<root xmlName="nodeInfo"  hasRes="1">
+	<nodeInfo xmlName="info"  hasRes="1">
+		<info xmlName="xmlNode" />
+		<info xmlName="otherNode" />
+		<info xmlName="bgNode" />
+	</nodeInfo>
+	<xmlNode xmlName="Node"  hasRes="1">
+		<Node id="0" url="res/soundRes.xml" type="XML_TYPE"  isRes="1"/>
+		<Node id="1" url="res/txtRes.xml" type="XML_TYPE"  isRes="1"/>
+	</xmlNode>
+	<otherNode xmlName="Node"  hasRes="1">
+			<Node id="1" url="res/txtRes.xml" type="XML_TYPE"  isRes="1"/>
+	</otherNode>
+	<bgNode xmlName="Node"  hasRes="1">
+			<Node id="1" url="res/bgRes.xml" type="XML_TYPE"  isRes="1"/>
+	</bgNode>
+</root>

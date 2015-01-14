@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<root xmlName="nodeInfo"  hasRes="1">
+	<nodeInfo xmlName="info"  hasRes="1">
+		<info xmlName="bgNode" />
+	</nodeInfo>
+	<bgNode xmlName="Node"  hasRes="1">
+		<Node id="0" url="res/bg/1.jpg" type="IMG_TYPE"  isRes="1"/>
+		<Node id="1" url="res/bg/2.jpg" type="IMG_TYPE"  isRes="1"/>
+		<Node id="2" url="res/bg/3.jpg" type="IMG_TYPE"  isRes="1"/>
+		<Node id="3" url="res/bg/4.jpg" type="IMG_TYPE"  isRes="1"/>
+		<Node id="4" url="res/bg/4.jpg" type="IMG_TYPE"  isRes="1"/>
+	</bgNode>
+</root>
